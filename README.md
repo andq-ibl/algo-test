@@ -53,7 +53,7 @@ After we square each digit, we take the results and concatenate them together. T
 
 ```
 Input: 448697
-Output:  v
+Output: 161664368149
 ```
 
 **Explain:**
